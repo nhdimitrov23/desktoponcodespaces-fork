@@ -1,4 +1,4 @@
-## About 
+![image](https://github.com/user-attachments/assets/ca76c075-a7e5-4b9b-b2b5-417a7f207188)## About 
 This is our project where we made some games to learn math and practise your english using a game named "Hangman".
 
 
@@ -12,4 +12,4 @@ This is our project where we made some games to learn math and practise your eng
 - [Documentation]()
 
 ## Apps used
-<img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/48/PowerPoint-icon.png"> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/48/Word-icon.png">
+<img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/48/github-icon.png"> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/48/PowerPoint-icon.png"> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/48/Word-icon.png">
