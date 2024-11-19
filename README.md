@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ca76c075-a7e5-4b9b-b2b5-417a7f207188)## About 
+## About 
 This is our project where we made some games to learn math and practise your english using a game named "Hangman".
 
 
