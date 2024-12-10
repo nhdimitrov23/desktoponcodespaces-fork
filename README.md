@@ -23,7 +23,7 @@ it's very simple to install, there is a pseudo-graphical installer.
 first start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O 
+curl -O https://raw.githubusercontent.com/nhdimitrov23/desktoponcodespaces-fork/refs/heads/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
