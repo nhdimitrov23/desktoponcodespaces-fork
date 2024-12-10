@@ -1,5 +1,5 @@
-git clone https://github.com/nhdimitrov23/dxfghj.git
-cd dxfghj
+git clone https://github.com/nhdimitrov23/desktoponcodespaces-fork.git
+cd desktoponcodespaces-fork
 pip install textual
 sleep 2
 python3 installer.py
